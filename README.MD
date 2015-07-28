@@ -16,12 +16,14 @@
 
 `Windows`、`MacOS X`
 
+#####相关软件
+
+编辑`HTML,CSS,JS,PHP`代码：`Sublime Text 3` <br/>
+浏览器：`Chrome` (<http://www.google.cn/chrome>)
+
 #####PHP环境
 
-可使用`xampp`、`wamp`直接安装`Apache`、`PHP`、`Mysql`服务。
+可使用`xampp`、`wamp`直接安装`Apache`、`PHP`、`Mysql`服务。<br/>
+xampp官网：<https://www.apachefriends.org/zh_cn/index.html><br/>
+wamp官网：<http://www.wampserver.com/en/>
 
-#####NodeJS环境
-
-1. 访问：<http://www.nodejs.org/> 下载NodeJS安装包。
-2. 打开CMD（MacOS下位终端管理器）输入：`node -v` 若出现版本号则已经安装完成NodeJS
-3. 打开CMD（MacOS下位终端管理器）输入：`npm -v` 若出现版本号则已经安装NPM
