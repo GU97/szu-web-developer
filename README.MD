@@ -44,3 +44,11 @@ wamp官网：<http://www.wampserver.com/en/>
 1. W3SCHOOL：<http://w3school.com.cn/><br/>
 2. PHP100经典教程（视频）：<http://www.php100.com/html/shipinjiaocheng/old/><br/>
 3. 《PHP和Mysql Web开发》
+
+###学习目标
+***
+
+####7.28 - 8.15
+1. 熟悉github使用
+2. 到W3SCHOOL学习HTML和CSS基本知识
+3. 使用HTML和CSS写一个百度的首页，然后将写好的页面pull到主仓库
