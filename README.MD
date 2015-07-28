@@ -22,6 +22,6 @@
 
 #####NodeJS环境
 
-1.访问：`http://www.nodejs.org/` 下载NodeJS安装包。
-2.打开CMD（MacOS下位终端管理器）输入：`node -v` 若出现版本号则已经安装完成NodeJS
-3.打开CMD（MacOS下位终端管理器）输入：`npm -v` 若出现版本号则已经安装NPM
+1. 访问：<http://www.nodejs.org/> 下载NodeJS安装包。
+2. 打开CMD（MacOS下位终端管理器）输入：`node -v` 若出现版本号则已经安装完成NodeJS
+3. 打开CMD（MacOS下位终端管理器）输入：`npm -v` 若出现版本号则已经安装NPM
