@@ -16,7 +16,7 @@
 
 #####操作系统
 
-`Windows`或`MacOS X`
+`Windows`或`MacOS X`.
 
 #####相关软件
 
