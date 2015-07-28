@@ -21,7 +21,7 @@
 #####相关软件
 
 编辑`HTML,CSS,JS,PHP`代码：`Sublime Text 3` <br/>
-浏览器：`Chrome` (<http://www.google.cn/chrome>)
+浏览器：`Chrome` (<http://www.google.cn/chrome>)<br/>
 Github客户端：<https://mac.github.com/> (MacOS X)、<https://windows.github.com/> (Windows)
 
 #####PHP环境
