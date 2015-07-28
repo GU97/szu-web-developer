@@ -27,3 +27,16 @@
 xampp官网：<https://www.apachefriends.org/zh_cn/index.html><br/>
 wamp官网：<http://www.wampserver.com/en/>
 
+###相关材料
+
+#####学习HTML、CSS
+W3SCHOOL：<http://w3school.com.cn/>
+
+#####学习JS
+JavaScript教程 - 廖雪峰的官方网站：<http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000><br/>
+《JavaScript高级程序设计》
+
+#####学习PHP
+W3SCHOOL：<http://w3school.com.cn/><br/>
+PHP100经典教程（视频）：<http://www.php100.com/html/shipinjiaocheng/old/><br/>
+《PHP和Mysql Web开发》
