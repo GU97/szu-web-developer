@@ -22,6 +22,7 @@
 
 编辑`HTML,CSS,JS,PHP`代码：`Sublime Text 3` <br/>
 浏览器：`Chrome` (<http://www.google.cn/chrome>)
+Github客户端：<https://mac.github.com/> (MacOS X)、<https://windows.github.com/> (Windows)
 
 #####PHP环境
 
