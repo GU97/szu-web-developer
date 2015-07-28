@@ -1,6 +1,7 @@
 #深圳大学信息工程学院Web开发交流群
 
 ###前言
+***
 
 深大信工Web开发交流QQ群：`480584588` [限深圳大学信息工程学院学生]
 
@@ -9,6 +10,7 @@
 本文档会不定期更新学习目标。
 
 ###开发环境
+***
 
 为保证程序调试和学习交流之间的畅通，在此为各位群友推荐开发环境如下：
 
@@ -28,6 +30,7 @@ xampp官网：<https://www.apachefriends.org/zh_cn/index.html><br/>
 wamp官网：<http://www.wampserver.com/en/>
 
 ###相关材料
+***
 
 #####学习HTML、CSS
 1. W3SCHOOL：<http://w3school.com.cn/>
