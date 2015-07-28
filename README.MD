@@ -14,7 +14,7 @@
 
 #####操作系统
 
-`Windows`、`MacOS X`
+`Windows`或`MacOS X`
 
 #####相关软件
 
@@ -23,7 +23,7 @@
 
 #####PHP环境
 
-可使用`xampp`、`wamp`直接安装`Apache`、`PHP`、`Mysql`服务。<br/>
+可使用`xampp`或`wamp`直接安装`Apache`、`PHP`、`Mysql`服务。<br/>
 xampp官网：<https://www.apachefriends.org/zh_cn/index.html><br/>
 wamp官网：<http://www.wampserver.com/en/>
 
